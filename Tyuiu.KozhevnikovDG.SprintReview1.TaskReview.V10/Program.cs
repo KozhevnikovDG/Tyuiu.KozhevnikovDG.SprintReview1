@@ -19,8 +19,8 @@ namespace Tyuiu.KozhevnikovDG.SprintReview1.TaskReview.V10
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
             Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
-            Console.WriteLine("* Задание #8                                                             *");
-            Console.WriteLine("* Вариант #10                                                            *");
+            Console.WriteLine("* Задание #8                                                              *");
+            Console.WriteLine("* Вариант #10                                                             *");
             Console.WriteLine("* Выполнил: Кожевников Данил Георгиевич | ИИПБ-23-1                       *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
